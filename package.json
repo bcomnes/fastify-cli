@@ -61,7 +61,7 @@
     "resolve-from": "^5.0.0",
     "semver": "^7.3.2",
     "split2": "^3.1.1",
-    "yargs-parser": "^20.0.0"
+    "yargs-parser": "^21.1.1"
   },
   "devDependencies": {
     "@types/node": "^14.0.18",
